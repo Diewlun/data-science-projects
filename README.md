@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for self-learning and previous work experience. Presented in the form of Jupyter Notebooks, .R and.sql files. 
+Repository containing portfolio of data science projects completed by me for self-learning and previous work experience. Presented in the form of Jupyter Notebooks, .R and .sql files. 
 
 # Contents
 # Machine Learning 
